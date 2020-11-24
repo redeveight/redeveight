@@ -1,6 +1,6 @@
-### Hi there, I'm Konstantin - aka [redeveight][website]
+### Hi there, I'm Konstantin - aka [redeveight]
 
-[![Website](https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com)](http://redeveight.com)
+[![Website](https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com)][website]
 
 ### Connect with me:
 
