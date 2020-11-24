@@ -7,4 +7,4 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" />]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />]
