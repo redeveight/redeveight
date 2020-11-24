@@ -12,6 +12,9 @@
 
 <img align="left" alt="Java" width="21px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
 <img align="left" alt="Spring" width="121.5px" height="31px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
+<img align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" />
+<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <br />
 
