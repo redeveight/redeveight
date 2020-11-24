@@ -19,7 +19,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="redeveight's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=redeveight&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" alt="redeveight's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeveight&layout=compact&hide_border=true&hide=css,html&langs_count=6" />
   <img align="left" alt="redeveight's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=redeveight&show_icons=true&hide_border=true" />
 </details>
 
