@@ -1,6 +1,12 @@
-### Hi there, I'm Konstantin - aka [redeveight]
+### Hi there, I'm Konstantin - aka [redeveight][website]
 
 [![Website](https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com)](http://redeveight.com)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
 
 ### Languages and Tools:
 
@@ -9,10 +15,12 @@
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <br />
 
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="redeveight's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=redeveight&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img align="left" alt="redeveight's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=redeveight&show_icons=true&hide_border=true" />
 </details>
+
+[website]: http://redeveight.com
+[twitter]: https://twitter.com/redeveight
+[linkedin]: https://www.linkedin.com/in/redeveight
