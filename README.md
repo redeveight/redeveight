@@ -1,7 +1,7 @@
 ### Hi there, I'm Konstantin
 
 [<img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/redeveight/blob/master/resources/images/hover.png" />][website]
-[![Website](https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com)][website]
+[![Website]<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
 
 ### Connect with me:
 
