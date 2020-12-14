@@ -6,16 +6,6 @@
 👯 I’m looking to collaborate on: python projects, web development. <br />
 ⚡ Fun facts: In my free time I do 3D modeling. In the future, I want to work on a project for which both my programming and modeling skills will be useful.
 
-#### Connect with me:
-
-[<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
-<br />
-
-[<img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/redeveight/blob/master/resources/images/hover.png" />][website]
-
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="23px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
@@ -25,6 +15,16 @@
 <img align="left" alt="NodeJS" width="47px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <br />
+
+#### Connect with me:
+
+[<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
+<br />
+
+[<img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/redeveight/blob/master/resources/images/hover.png" />][website]
 
 ---
 
