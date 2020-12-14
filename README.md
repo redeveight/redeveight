@@ -4,7 +4,8 @@
 🎓 *Currently Learning*: Spring Framework. <br />
 📬 Ask me about: Anything. <br />
 👥 I’m looking to collaborate on: Python projects, Web Development. <br />
-🎱 Fun facts: In my free time I do 3D modeling. In the future, I want to work on a project for which both my programming and modeling skills will be useful.
+🎱 Fun facts: In my free time I do 3D modeling. In the future, I want to work on a project for which both my programming and modeling skills will be useful. <br />
+🔗 Plans to learn: Rust and Rocket Framework to add flexibility and speed to my future projects.
 
 #### Connect with me:
 
