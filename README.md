@@ -1,11 +1,12 @@
 ### Hi there, I'm Konstantin. I'm a web developer. Welcome to my GH page!
 
-🔭 *Currently working on*: Spring Chess Project <br />
-🌱 *Currently Learning*: Spring Framework <br />
-💬 Ask me about anything <br />
+🔭 *Currently working on*: Spring Chess Project. <br />
+🌱 *Currently Learning*: Spring Framework. <br />
+💬 Ask me about: anything. <br />
+👯 I’m looking to collaborate on: python projects, web development. <br />
 ⚡ Fun facts: In my free time I do 3D modeling. In the future, I want to work on a project for which both my programming and modeling skills will be useful.
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
