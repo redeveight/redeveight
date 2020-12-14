@@ -16,7 +16,7 @@
 
 [<img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/redeveight/blob/master/resources/images/hover.png" />][website]
 
-#### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Java" width="23px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
 <img align="left" alt="Spring" width="121.5px" height="31px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
