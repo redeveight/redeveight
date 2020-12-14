@@ -1,7 +1,19 @@
-### Hi there, I'm Konstantin
+### Hi there, I'm Konstantin. I'm a web developer. Welcome to my GH page!
 
-[<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
+🔭 *Currently working on*: Spring Chess Project <br />
+🌱 *Currently Learning*: Spring Framework <br />
+💬 Ask me about anything <br />
+⚡ Fun facts: In my free time I do 3D modeling. In the future, I want to work on a project for which both my programming and modeling skills will be useful.
+
+### Connect with me:
+
+[<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<br />
+
 [<img align="left" alt="redeveight | Hover" src="https://github.com/redeveight/redeveight/blob/master/resources/images/hover.png" />][website]
+[<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
 
 ### Languages and Tools:
 
@@ -11,13 +23,6 @@
 <img align="left" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />
 <img align="left" alt="NodeJS" width="47px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ---
