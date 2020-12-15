@@ -1,6 +1,6 @@
 ### Hi there, I'm Konstantin. I'm a web developer. Welcome to my GH page!
 
-💻 *Currently working on*: Spring Chess Project. <br />
+💻 *Currently working on*: Spring Board Game Project. <br />
 🎓 *Currently Learning*: Spring Framework. <br />
 📬 Ask me about: Anything. <br />
 👥 I’m looking to collaborate on: Python projects, Web Development. <br />
