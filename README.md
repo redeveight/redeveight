@@ -1,4 +1,4 @@
-### Hi there, I'm Konstantin. I'm a web developer. Welcome to my GH page!
+### Hi there, I'm Konstantin. I'm a Java Developer. Welcome to my GH page!
 
 💻 *Currently working on*: Spring Board Game Project. <br />
 🎓 *Currently Learning*: Spring Framework. <br />
