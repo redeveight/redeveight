@@ -10,8 +10,7 @@
 #### Connect with me:
 
 [<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="redeveight | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="right" alt="redeveight | Hover" src="https://img.shields.io/website?label=redeveight.com&style=for-the-badge&url=http%3A%2F%2Fredeveight.com" />][website]
 <br />
 
