@@ -294,7 +294,7 @@ function handleEscKey() {
 
 function handleTyping () {
   $(".element").typed({
-    strings: ["Java Developer", "Android Developer"],
+    strings: ["Full-Stack Developer", "Android Developer"],
     typeSpeed: 45,
     starDelay: 1000,
     backDelay: 3000,
