@@ -1,4 +1,4 @@
-### Hi there, I'm Kanstantsin. 👋
+### Hi there, I'm Kanstantsin.
 
 <!--- 💻 I’m currently working on ...
 - 🎓 I’m currently learning ...
@@ -9,11 +9,11 @@
 - 📫 How to reach me: ...
 - 🎱 Fun fact: ...-->
 
-#### Connect with me:
+<!--#### Connect with me:
 
 [<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="redeveight | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+<br />-->
 
 ### Languages and Tools:
 
@@ -33,6 +33,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/redeveight
 [facebook]: https://www.facebook.com/redeveight
 [linkedin]: https://www.linkedin.com/in/redeveight
