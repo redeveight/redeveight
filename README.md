@@ -18,9 +18,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="23px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
-<img align="left" alt="Spring" width="121.5px" height="31px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" />
+<!--<img align="left" alt="Spring" width="121.5px" height="31px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/spring.svg" />-->
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
-<img align="left" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />
+<!--<img align="left" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" />-->
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <br />
 
