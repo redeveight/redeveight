@@ -1,19 +1,17 @@
 ### Hi there, I'm Kanstantsin.
 
-<!--- 💻 I’m currently working on ...
-- 🎓 I’m currently learning ...
-- 🔗 Plans to learn:
-- 👥 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🎱 Fun fact: ...-->
+- 💻 I’m currently working on programs that help to learn foreign languages
+- 🎓 I’m currently learning Spring Framework
+- 🔗 Plans to learn: Vaadin, Angular, React.js, Vue.js, C++, Erlang
+- 👥 I’m looking to collaborate on Education Projects
+- 📫 How to reach me: Email, LinkedIn, Twitter
+- 🎱 Fun fact: studied 3D Modeling
 
-<!--#### Connect with me:
+#### Connect with me:
 
-[<img align="left" alt="redeveight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="redeveight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="redeveight | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />-->
+<br />
 
 ### Languages and Tools:
 
@@ -33,5 +31,6 @@
 
 </details>
 
+[twitter]: https://twitter.com/redeveight
 [facebook]: https://www.facebook.com/redeveight
 [linkedin]: https://www.linkedin.com/in/redeveight
