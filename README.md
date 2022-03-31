@@ -4,7 +4,7 @@
 - 🎓 I’m currently learning Spring Framework
 - 🔗 Plans to learn: Vaadin, Angular, React.js, Vue.js, C++, Erlang
 - 👥 I’m looking to collaborate on Education Projects
-- 📫 How to reach me: Email, LinkedIn, Twitter
+- 📫 How to reach me: Email, Twitter
 - 🎱 Fun fact: studied 3D Modeling
 
 #### Connect with me:
