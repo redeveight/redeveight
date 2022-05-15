@@ -2,9 +2,9 @@
 
 - 💻 I’m currently working on programs that help to learn foreign languages
 - 🎓 I’m currently learning Spring Framework
-- 🔗 Plans to learn: Vaadin, Angular, React.js, Vue.js, C++, Erlang
+- 🔗 Plans to learn: Vaadin, React.js, Erlang
 - 👥 I’m looking to collaborate on Education Projects
-- 📫 How to reach me: Email, Twitter
+- 📫 How to reach me: Email
 - 🎱 Fun fact: studied 3D Modeling
 
 #### Connect with me:
